@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\bin\Debug\Vize Bağlı Listeler Projesi.exe.config
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\bin\Debug\Vize Bağlı Listeler Projesi.exe
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\bin\Debug\Vize Bağlı Listeler Projesi.pdb
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize Bağlı Listeler Projesi.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize_Bağlı_Listeler_Projesi.Form1.resources
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize_Bağlı_Listeler_Projesi.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize Bağlı Listeler Projesi.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize Bağlı Listeler Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize Bağlı Listeler Projesi.exe
+C:\Users\Hilal\source\repos\Vize Bağlı Listeler Projesi\Vize Bağlı Listeler Projesi\obj\Debug\Vize Bağlı Listeler Projesi.pdb
